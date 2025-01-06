@@ -6,5 +6,8 @@
     <string name="text_second">секунды</string>
     <string name="text_result">Результат</string>
     <string name="text_reset">Reset</string>
+    <string name="menu_reset">Reset</string>
     <string name="text_exit">Exit</string>
+    <string name="menu_exit">Exit</string>
+
 </resources>
