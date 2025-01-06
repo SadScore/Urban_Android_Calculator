@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Android Calculator</string>
+    <string name="text_calculator_name">Калькулятор времени</string>
+    <string name="text_hour">часы</string>
+    <string name="text_minute">минуты</string>
+    <string name="text_second">секунды</string>
+    <string name="text_result">Результат</string>
+    <string name="text_reset">Reset</string>
+    <string name="text_exit">Exit</string>
+</resources>
